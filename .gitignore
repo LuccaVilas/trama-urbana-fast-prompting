@@ -1,0 +1,5 @@
+.env
+.env.*
+.cache_trama/
+.ipynb_checkpoints/
+__pycache__/
