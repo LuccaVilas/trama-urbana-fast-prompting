@@ -1,0 +1,62 @@
+{
+  "modo": "REGISTRO",
+  "resultados": {
+    "A_basico": {
+      "raw": "{\"texto\":\"Trama Urbana presenta una remera negra lisa de manga corta, un básico versátil para sumar estilo a cualquier look. Combinala con un jean azul y zapatillas blancas para un outfit urbano y relajado, o con pantalón sastrero para una propuesta más sofisticada. Una prenda simple, cómoda y fácil de usar todos los días. ¿Querés saber más? Consultanos por mensaje privado.\",\"hashtags\":[\"#TramaUrbana\",\"#RemeraNegra\",\"#EstiloUrbano\"],\"prompt_imagen\":\"Fondo cuadrado de estética urbana y minimalista, con paleta beige, negro y blanco, composición equilibrada y moderna, iluminación suave, texturas sutiles y espacio central amplio y completamente libre para colocar contenido posteriormente. Sin prendas, personas, texto, letras, tipografías, logotipos ni marcas.\"}",
+      "origen": "Respuesta real registrada de ChatGPT web",
+      "modelo": null,
+      "usage": {},
+      "segundos": null,
+      "cache": false,
+      "consultas_nuevas": 0,
+      "evaluacion": {
+        "estructura": true,
+        "extension": true,
+        "hashtags": true,
+        "marca": true,
+        "contacto": true,
+        "puntos": 5,
+        "palabras": 60,
+        "detalle": "Falta revisión humana de contenido e imagen"
+      }
+    },
+    "B_contexto": {
+      "raw": "{\n\"texto\": \"En Trama Urbana, lo simple también tiene actitud. Esta remera negra lisa de manga corta es una opción versátil para sumar a tu look de todos los días. Podés combinarla con un jean y zapatillas para un estilo relajado y fácil de llevar. ¿Querés saber más sobre esta prenda? Mandanos un mensaje privado y te respondemos.\",\n\"hashtags\": [\n\"#TramaUrbana\",\n\"#RemeraNegra\",\n\"#EstiloUrbano\"\n],\n\"prompt_imagen\": \"Fondo cuadrado de estética urbana y minimalista, con composición equilibrada en tonos beige, negro y blanco. Dejar un espacio central amplio y completamente libre para incorporar posteriormente una fotografía del producto. Sin prendas, sin personas, sin texto, sin logotipos y sin elementos que ocupen el centro.\"\n}",
+      "origen": "Respuesta real registrada de ChatGPT web",
+      "modelo": null,
+      "usage": {},
+      "segundos": null,
+      "cache": false,
+      "consultas_nuevas": 0,
+      "evaluacion": {
+        "estructura": true,
+        "extension": true,
+        "hashtags": true,
+        "marca": true,
+        "contacto": true,
+        "puntos": 5,
+        "palabras": 56,
+        "detalle": "Falta revisión humana de contenido e imagen"
+      }
+    },
+    "C_few_shot": {
+      "raw": "{\n\"texto\": \"Sumá un básico versátil a tu look con la remera negra de Trama Urbana. Su diseño liso y manga corta la convierten en una opción simple para combinar. Usala con un pantalón gris o con tu jean favorito y armá una propuesta cómoda y urbana. Si querés conocer más sobre esta remera, escribinos por mensaje privado.\",\n\"hashtags\": [\"#TramaUrbana\", \"#RemeraNegra\", \"#LookUrbano\"],\n\"prompt_imagen\": \"Fondo cuadrado de estética urbana y minimalista, con una paleta equilibrada de beige, negro y blanco. Composición limpia, moderna y atractiva para público joven, con iluminación suave y espacio central amplio y completamente libre para incorporar posteriormente una fotografía del producto. No incluir prendas, personas, texto, logotipos, marcas ni elementos que ocupen el área central.\"\n}",
+      "origen": "Respuesta real registrada de ChatGPT web",
+      "modelo": null,
+      "usage": {},
+      "segundos": null,
+      "cache": false,
+      "consultas_nuevas": 0,
+      "evaluacion": {
+        "estructura": true,
+        "extension": true,
+        "hashtags": true,
+        "marca": true,
+        "contacto": true,
+        "puntos": 5,
+        "palabras": 56,
+        "detalle": "Falta revisión humana de contenido e imagen"
+      }
+    }
+  }
+}
