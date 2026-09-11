@@ -1,0 +1,4 @@
+variante,caracteres_prompt,palabras_texto,comprobaciones_de_5,origen
+A_basico,611,60,5,Respuesta real registrada de ChatGPT web
+B_contexto,869,56,5,Respuesta real registrada de ChatGPT web
+C_few_shot,1296,56,5,Respuesta real registrada de ChatGPT web
