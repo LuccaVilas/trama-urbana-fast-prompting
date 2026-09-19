@@ -1,0 +1,32 @@
+{
+  "fecha": "2026-09-19",
+  "caso": "Trama Urbana, ficticio",
+  "texto": {
+    "herramienta": "ChatGPT web",
+    "modo_visible": "Instantánea",
+    "modelo_exacto": null,
+    "consultas_final": 1,
+    "publicaciones_obtenidas": 3,
+    "respuesta_original": "datos/respuesta_original.txt",
+    "prompt": "prompts/texto_campana.txt",
+    "prompt_sha256": "e71fa8c30acf4c19832736639a2ec3292824db5f85eb8b5cd31ff77c731073a3",
+    "nota": "Nueva conversación; respuesta original extraída del texto visible. El identificador exacto del modelo no se expuso. No se incluyen conversaciones privadas en el repositorio."
+  },
+  "imagen": {
+    "herramienta": "Generador de imágenes integrado en Codex (image_gen)",
+    "consultas_final": 3,
+    "retoques": 0
+  },
+  "antecedentes": {
+    "consultas_texto_tp2": 3,
+    "consultas_imagen_tp1": 1
+  },
+  "costos": {
+    "llamadas_api_desde_notebook": 0,
+    "saldo_api_adicional_comprado": false,
+    "tokens": null,
+    "importe_generaciones": null,
+    "nota": "Se usaron accesos disponibles; no se conoce el costo imputable por generación ni se presume gratuidad universal."
+  },
+  "asistencia": "Se utilizó IA para código, redacción, generación y revisión. Las correcciones editoriales se registran por separado de las respuestas originales."
+}

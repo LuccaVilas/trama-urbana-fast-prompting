@@ -1,0 +1,37 @@
+{
+  "publicaciones": [
+    {
+      "id": "01",
+      "objetivo": "Presentación de marca",
+      "texto": "Trama Urbana nace para quienes buscan sumar básicos a su día a día sin dar demasiadas vueltas. Remeras y buzos de líneas simples, pensados para formar parte de distintos looks y momentos. Estamos empezando a construir nuestra identidad y queremos que seas parte. Si querés conocer más sobre Trama Urbana y nuestras prendas, escribinos por mensaje privado y te contamos.",
+      "hashtags": [
+        "#TramaUrbana",
+        "#RopaUrbana",
+        "#BasicosUrbanos"
+      ],
+      "prompt_imagen": "Fondo conceptual cuadrado de campaña, no producto real. Fotografía editorial minimalista con paleta beige, negro y blanco, luz suave y espacio central amplio libre. Composición arquitectónica baja con formas geométricas ubicadas en los bordes. Sin prendas, personas, texto, letras, logotipos, marcas de agua ni columnas verticales. Estética urbana, limpia y coherente con una campaña visual contemporánea."
+    },
+    {
+      "id": "02",
+      "objetivo": "Presentación de remera",
+      "texto": "Un básico directo: remera negra, lisa y de manga corta de Trama Urbana. Una propuesta visual simple para sumar al guardarropa y usar como punto de partida para distintos estilos. Sin estampas ni elementos que le saquen protagonismo a su diseño liso. Si querés consultar más información sobre esta remera de Trama Urbana, mandanos un mensaje privado y te contamos lo disponible.",
+      "hashtags": [
+        "#TramaUrbana",
+        "#RemeraNegra",
+        "#EstiloUrbano"
+      ],
+      "prompt_imagen": "Fondo conceptual cuadrado de campaña, no producto real. Fotografía editorial minimalista con paleta beige, negro y blanco, luz suave y espacio central amplio libre. Escena de estudio con un bloque negro bajo ubicado a la derecha, manteniendo el centro despejado. Sin prendas, personas, texto, letras, logotipos, marcas de agua ni columnas verticales. Misma estética urbana, limpia y contemporánea de la campaña."
+    },
+    {
+      "id": "03",
+      "objetivo": "Idea de combinación",
+      "texto": "Una idea simple para armar un look: combinar la remera negra, lisa y de manga corta de Trama Urbana con un jean y zapatillas blancas. El jean y las zapatillas son solo una propuesta de combinación y no forman parte del catálogo mencionado. Podés tomar la idea y adaptarla a tu estilo. Para consultar por la remera de Trama Urbana, escribinos por mensaje privado.",
+      "hashtags": [
+        "#TramaUrbana",
+        "#IdeaDeLook",
+        "#EstiloUrbano"
+      ],
+      "prompt_imagen": "Fondo conceptual cuadrado de campaña, no producto real. Fotografía editorial minimalista en vista cenital, paleta beige, negro y blanco, luz suave y espacio central amplio libre. Paneles planos beige, negros y blancos distribuidos alrededor del centro sin invadirlo. Sin prendas, personas, texto, letras, logotipos, marcas de agua ni columnas verticales. Conservar la misma estética urbana, limpia y contemporánea de la campaña."
+    }
+  ]
+}
