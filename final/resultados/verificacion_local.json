@@ -1,0 +1,16 @@
+{
+  "fecha_utc": "2026-09-19T15:28:44.701851+00:00",
+  "kernel": "Python 3.14.2",
+  "nbformat": "5.11.1",
+  "celdas_codigo": 8,
+  "errores": 0,
+  "imagenes_en_salida": 3,
+  "palabras": [
+    59,
+    61,
+    64
+  ],
+  "ejecucion": "recursos locales",
+  "consultas_modelos": 0,
+  "resultado": "PASS"
+}

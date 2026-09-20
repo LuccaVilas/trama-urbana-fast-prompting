@@ -1,0 +1,16 @@
+{
+  "fecha_utc": "2026-09-19T15:28:48.011350+00:00",
+  "kernel": "Python 3.14.2",
+  "nbformat": "5.11.1",
+  "celdas_codigo": 8,
+  "errores": 0,
+  "imagenes_en_salida": 3,
+  "palabras": [
+    60,
+    62,
+    64
+  ],
+  "ejecucion": "modo IMPORTAR con respuesta original y sin correcciones automáticas",
+  "consultas_modelos": 0,
+  "resultado": "PASS"
+}

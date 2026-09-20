@@ -1,5 +1,7 @@
 .env
 .env.*
 .cache_trama/
+.cache_final/
 .ipynb_checkpoints/
 __pycache__/
+salidas_final/

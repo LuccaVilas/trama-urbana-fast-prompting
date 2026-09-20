@@ -1,0 +1,41 @@
+[
+  {
+    "id": "01",
+    "palabras": 59,
+    "puntos_formales": 5,
+    "controles": {
+      "extension": true,
+      "hashtags": true,
+      "marca": true,
+      "contacto": true,
+      "prompt_visual": true
+    },
+    "alertas_para_revisar": []
+  },
+  {
+    "id": "02",
+    "palabras": 61,
+    "puntos_formales": 5,
+    "controles": {
+      "extension": true,
+      "hashtags": true,
+      "marca": true,
+      "contacto": true,
+      "prompt_visual": true
+    },
+    "alertas_para_revisar": []
+  },
+  {
+    "id": "03",
+    "palabras": 64,
+    "puntos_formales": 5,
+    "controles": {
+      "extension": true,
+      "hashtags": true,
+      "marca": true,
+      "contacto": true,
+      "prompt_visual": true
+    },
+    "alertas_para_revisar": []
+  }
+]
